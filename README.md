@@ -1,4 +1,4 @@
-## hi, i'm santiago! 👋
+## hi!! 👋
 
 <table>
   <tr>
@@ -12,7 +12,6 @@
 </table>
 
 ---
-atm i'm a student on 10th grade that learned programming mostly with documentation and open source software. you'll proably won't see me making a large scale project and making it open source, however sometimes i actually do make some small ones fully open source as a way to give to the open source software community
 
 ## skills
 - [Go](https://go.dev/)
