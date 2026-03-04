@@ -10,20 +10,3 @@
     </td>
   </tr>
 </table>
-
----
-
-## skills
-- [Go](https://go.dev/)
-- [Rust](https://www.rust-lang.org/)
-- [Ruby](https://www.ruby-lang.org/en/) (proficient)
-- [ScyllaDB](https://www.scylladb.com/)
-- [MongoDB](https://www.mongodb.com/) (proficient)
-- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) (proficient)
-- [TypeScript](https://www.typescriptlang.org/) (proficient)
-
-## projects
-this are some really recent projects that i have made out! most of them are made for hack club
-- [fluster - based on novetus and other old launchers, fluster is a lightweight old roblox launcher made on tauri](https://github.com/sbeltranc/fluster)
-- [cathop - a project that combinates a bunch of web tools that i normally use with a free open API made in ruby on rails](https://github.com/sbeltranc/cathop)
-- [meowtime - resuming up, it's wakatime but focused on action insights instead of time due to my dislike on how time is used like a insight](https://github.com/sbeltranc/meowtime)
